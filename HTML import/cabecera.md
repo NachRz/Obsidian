@@ -1,1 +1,0 @@
-![](HTML%20import/Attachments/logo-rup-1800-xunta.png)
