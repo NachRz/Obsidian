@@ -1,3 +1,0 @@
-- Básica
-- Media
-- Superior
