@@ -11,11 +11,9 @@
             "id": "0348917176a9d061",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Despregamento de aplicacions web.md",
-                "mode": "source",
-                "source": false
+                "file": "Tarea Obsidian.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Despregamento de aplicacions web.md",
+                "file": "Tarea Obsidian.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Despregamento de aplicacions web.md",
+                "file": "Tarea Obsidian.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Despregamento de aplicacions web.md"
+                "file": "Tarea Obsidian.pdf"
               }
             }
           }
@@ -148,14 +146,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0348917176a9d061",
+  "active": "1ad03c74725c3325",
   "lastOpenFiles": [
-    "Pasted image 20240311095458.png",
-    "Despregamento de aplicacions web.md",
-    "Documentación.md",
-    "Servicio de directorio.md",
     "Servidor FTP.md",
+    "Tarea Obsidian.pdf",
+    "Tarea Obsidian.pdf.crdownload",
     "Servidor DNS.md",
+    "Servicio de directorio.md",
+    "Documentación.md",
+    "Despregamento de aplicacions web.md",
+    "Pasted image 20240311095458.png",
     "Sin título.md",
     "HTML import/daw.md",
     "HTML import/dam.md",
