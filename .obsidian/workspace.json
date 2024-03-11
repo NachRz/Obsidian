@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "2084a66d8681cbe7",
+    "id": "694847a45922abe4",
     "type": "split",
     "children": [
       {
-        "id": "54a33a4c619e83ed",
+        "id": "148b36f794a31378",
         "type": "tabs",
         "children": [
           {
-            "id": "0348917176a9d061",
+            "id": "803ec95c26d8a618",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Despregamento de aplicacions web.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1358c8bea9932307",
+    "id": "90cb7bb48d73f07e",
     "type": "split",
     "children": [
       {
-        "id": "fe1899f251d7ec6e",
+        "id": "8824d859b16ac4f7",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad03c74725c3325",
+            "id": "07235164392eae8f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "b2cd5f26838ede84",
+            "id": "bc7d280cf02731b6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Middleware",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "ef61739ee6d83371",
+            "id": "475d51ae10ef2034",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "004a98b1ddce67a2",
+    "id": "6a2b0ce5dedc5c51",
     "type": "split",
     "children": [
       {
-        "id": "ee3099995fe92bae",
+        "id": "76849b67518bb8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "81ce7210ca256756",
+            "id": "381a97e241637e67",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Despregamento de aplicacions web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +93,18 @@
             }
           },
           {
-            "id": "9e0c2dc2ecc610b8",
+            "id": "b7c867fe5c978e72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Despregamento de aplicacions web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4685f91cde61309b",
+            "id": "5e225751c30df9f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,79 +115,60 @@
             }
           },
           {
-            "id": "467d60eb49ccee9d",
+            "id": "cb7c06deb8db385b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Despregamento de aplicacions web.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0348917176a9d061",
+  "active": "07235164392eae8f",
   "lastOpenFiles": [
-    "Pasted image 20240311095458.png",
-    "Despregamento de aplicacions web.md",
-    "Documentación.md",
-    "Servicio de directorio.md",
+    "README.md",
+    "Servidor de aplicaciones.md",
     "Servidor FTP.md",
     "Servidor DNS.md",
-    "Sin título.md",
-    "HTML import/daw.md",
-    "HTML import/dam.md",
-    "2024-03-11.md",
+    "Servicio de directorio.md",
+    "Img/servidorDirectorio.jpeg",
+    "Img/Tomcat.png",
+    "Img/Servidor Dns.png",
+    "Img/Protocolo-FTP.png",
+    "Img/DAW.jpeg",
+    "Img",
+    "HTML import/top-navigation.md",
     "HTML import/pie.md",
     "HTML import/materias.md",
     "HTML import/index.md",
-    "HTML import/top-navigation.md",
-    "HTML import/Superior.md",
+    "HTML import/daw.md",
+    "HTML import/dam.md",
     "HTML import/ciclos.md",
     "HTML import/cabecera.md",
+    "HTML import/Superior.md",
     "HTML import/Attachments/logo-rup-1800-xunta.png",
     "HTML import/Attachments",
     "HTML import",
-    "Sin título.canvas",
-    "LDAP.md",
-    "Tomcat.md",
-    "Img/DAW.jpeg",
-    "Img/DAW.jpeg.crdownload",
-    "Servidor de aplicaciones.md",
-    "Apache Geronimo.md",
-    "Img",
-    "Img/servidorDirectorio.jpeg",
-    "servidorDirectorio.jpeg.crdownload",
-    "Img/Servidor Dns.png",
-    "Servidor Dns.png.crdownload",
-    "Img/Tomcat.png",
-    "Tomcat.png.crdownload",
-    "Img/Protocolo-FTP.png",
-    "Pasted image 20240310232154.png",
-    "Protocolo-FTP.png.crdownload",
-    "Sin título 1.canvas",
-    "Cloudflare.md",
-    "Infranetworking.md",
-    "Sevidor FTP.md",
-    "Welcome.md",
-    "Pasted image 20240310214328.png",
-    "2024-03-10.md"
+    "HTML import\\Attachments",
+    "Documentación.md",
+    "Despregamento de aplicacions web.md",
+    "Welcome.md"
   ]
 }
