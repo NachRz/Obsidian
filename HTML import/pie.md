@@ -1,1 +1,0 @@
-Centro Ucha - Contacto: info@ucha.edu
